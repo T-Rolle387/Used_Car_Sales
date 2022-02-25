@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Interface.pynb
+web: voila --port=$PORT --no-browser 
