@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser used_car_sales.ipynb
+web: voila --port=$PORT --no-browser 
