@@ -3,5 +3,5 @@ numpy==1.21.2
 matplotlib==3.5.0
 sklearn
 ipywidgets==7.6.5
-voila==0.3.0
+voila==0.3.2
 
