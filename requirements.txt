@@ -3,5 +3,5 @@ numpy==1.21.2
 matplotlib==3.5.0
 seaborn==0.11.2
 sklearn
-pickle==pickle
+pickle==4.0
 ipywidgets==7.6.5
