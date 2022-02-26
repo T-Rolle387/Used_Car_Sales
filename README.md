@@ -23,7 +23,7 @@ User Interface:
    
    *ford.csv contains data on used Ford vehicles.
    
-  The master.csv file is comprised of these four data sets with a "make" column added to distinguish the vehicles make as a feature. No other feature engineering is noted.
+    The master.csv file is comprised of these four data sets with a "make" column added to distinguish the vehicles make as a feature. No other feature engineering is noted.
 
 3. Evaluation
    The evaluation metric for this project is the RMSLE(root mean squared log error) between the actual and predicted used car sale prices.
