@@ -15,10 +15,11 @@ User Interface:
 
    There are four datasets the model was trained on and tested with:
 
-   audi.csv contains data on used Audi vehicles.
-   bmw.csv contains data on used BMW vehicles.
-   toyota.csv contains data on used Toyota vehicles.
-   ford.csv contains data on used Ford vehicles.
+   *audi.csv contains data on used Audi vehicles.
+   *bmw.csv contains data on used BMW vehicles.
+   *toyota.csv contains data on used Toyota vehicles.
+   *ford.csv contains data on used Ford vehicles.
+   
   The master.csv file is comprised of these four data sets with a "make" column added to distinguish the vehicles make as a feature. No other feature engineering is noted.
 
 3. Evaluation
