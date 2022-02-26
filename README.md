@@ -40,7 +40,7 @@ Feature Importance Visualization:
 
 ![feature_importance](https://user-images.githubusercontent.com/79055002/155822823-998c22d4-b07e-4953-aac6-8289b99b45df.png)
 
-Relationship betweeon input and output:
+   Relationship betweeon input and output:
 
 ![input_output_relationship](https://user-images.githubusercontent.com/79055002/155822926-52578958-db31-4b8e-8a44-bfa6f7968cd3.png)
 
@@ -50,12 +50,12 @@ Relationship betweeon input and output:
   To find out more about Random Forest Regression click here: https://www.askpython.com/python/examples/random-forest-regression
 
   Cross-Validation Scores:
+      *Training MAE': 900.1715187801835
+      *Test MAE': 1171.20809488802
+      *Training RMSLE': 0.07756558813078307
+      *Test RMSLE': 0.10309054329424935
+      *Training R^2': 0.9773507602618778
+      *Test R^2': 0.9644690670642001
 
- {'Training MAE': 900.1715187801835,
-  'Test MAE': 1171.20809488802,
-  'Training RMSLE': 0.07756558813078307,
-  'Test RMSLE': 0.10309054329424935,
-  'Training R^2': 0.9773507602618778,
-  'Test R^2': 0.9644690670642001}
 
 
