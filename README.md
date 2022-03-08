@@ -44,11 +44,12 @@ Feature Importance Visualization:
 
 ![feature_importance](https://user-images.githubusercontent.com/79055002/155822823-998c22d4-b07e-4953-aac6-8289b99b45df.png)
 
-   Relationship betweeon input and output:
+   Relationship between input and output:
 
 ![input_output_relationship](https://user-images.githubusercontent.com/79055002/155822926-52578958-db31-4b8e-8a44-bfa6f7968cd3.png)
 
 5. Modelling
+
   A Random Forest Regression model was used to train the data.
 
   To find out more about Random Forest Regression click here: https://www.askpython.com/python/examples/random-forest-regression
